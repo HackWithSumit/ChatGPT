@@ -3,6 +3,9 @@ ChatGPT (Chat Generative Pre-trained Transformer) is a chatbot developed by Open
 ------------------------------------------------------------------------------------------
 ![image](https://user-images.githubusercontent.com/120317751/220357115-10c9cfd3-f611-4137-9a81-b2bf09b12937.png)
 
+
+<B> Email me for File access: whitehatsumit@proton.me </b>
+
 <br>
 Deb File: https://drive.google.com/file/d/1xn2jqxPk5wG1SvVejYLBccGjOaiioA_t/view?usp=share_link
 <br>

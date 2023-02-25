@@ -10,4 +10,6 @@ ChatGPT (Chat Generative Pre-trained Transformer) is a chatbot developed by Open
 Deb File: https://drive.google.com/file/d/1xn2jqxPk5wG1SvVejYLBccGjOaiioA_t/view?usp=share_link
 <br>
 AppImage: https://drive.google.com/file/d/1pyH_2RT8ZbONxe1xwCCVSvUAm5Hy3hYz/view?usp=share_link
+<br>
+AppImage: https://drive.proton.me/urls/32AQEX77CC#wJEXWr7qIzmE
 
